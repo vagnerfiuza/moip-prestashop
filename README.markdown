@@ -5,10 +5,10 @@ Módulo desenvolvido pela equipe MoIP Pagamentos (http://www.moip.com.br ), test
 
 
 Este módulo possui:
-* Inclusão de layout personalizado da pagina de pagamento MoIP.
-* Retorno do cliente a sua loja.
-* Atualização automática de status do pagamento.
-* Envio automático de e-mail quando ocorre alteração de status.
+- Inclusão de layout personalizado da pagina de pagamento MoIP.
+- Retorno do cliente a sua loja.
+- Atualização automática de status do pagamento.
+- Envio automático de e-mail quando ocorre alteração de status.
 
 Instalação
 ===========
@@ -17,6 +17,6 @@ Instalação
 
 2. Envie a pasta MoIP para a pasta **modules** de sua loja PrestaShop
 
-3.Habilite a opção de pagamento MoIP em seu administrativo PrestaShop, *Payment* , escolha a opção **MoIP v I.HTML 1.0 MoIP Labs** e clique no botão **Install** (assim como imagem a seguir):
+3. Habilite a opção de pagamento MoIP em seu administrativo PrestaShop, *Payment* , escolha a opção **MoIP v I.HTML 1.0 MoIP Labs** e clique no botão **Install** (assim como imagem a seguir):
 
-[img1]: http://labs.moip.com.br/imagens_documentacao/moip_prestashop1.png 
+![img1](http://labs.moip.com.br/imagens_documentacao/moip_prestashop1.png)
